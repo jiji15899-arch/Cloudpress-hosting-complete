@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cloudpress.io/sitemap.xml
+Sitemap: https://cloudpress.cloud-in.co.kr/sitemap.xml
